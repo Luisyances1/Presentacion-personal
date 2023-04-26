@@ -30,5 +30,6 @@ st.image('images/fondo.jpeg')
 
 c1,c2,c3 = st.columns(3)
 with c2:
+    st.write('Presiona el boton')
     if st.button('¡FELICIDADES!'):
         st.balloons()
