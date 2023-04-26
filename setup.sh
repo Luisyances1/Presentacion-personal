@@ -1,3 +1,3 @@
 cd frontend && npm i
-cd..
+cd ..
 npm run build
