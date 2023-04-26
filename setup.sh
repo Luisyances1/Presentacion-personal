@@ -1,2 +1,3 @@
-frontend/npm install
-/npm run build
+frontend/
+npm i
+npm run build
