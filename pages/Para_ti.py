@@ -8,9 +8,9 @@ st.set_page_config(layout="wide",
 
 st.sidebar.image("images/felicidades.jpeg")
 st.sidebar.markdown("<h3 style='color: white;'> La suegrita que mas quiero Jajajajaj </h3>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: Black;'> SOFIA </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'> SOFIA </h1>", unsafe_allow_html=True)
 st.write('''
-<h2 style='text-align: center; color: Black;'> ¡Felicidades! </h2>
+<h2 style='text-align: center; color: white;'> ¡Felicidades! </h2>
 
 Tenia bastante tiempo que no escribia algo para alguien, se siente un poco raro jajajaaj, pero lo hago de corazon y
 con mucho cariño.
