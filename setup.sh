@@ -1,1 +1,1 @@
-npm run build
+frontend/ npm i
